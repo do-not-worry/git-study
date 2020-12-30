@@ -1,3 +1,0 @@
-ppp
-hhh
-ppp
